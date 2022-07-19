@@ -1,0 +1,95 @@
+body {
+    padding: 0px;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000;
+    color: #ffff;
+}
+
+header {
+    text-align: center;
+    margin: 0px;
+}
+
+header h1 {
+    margin: 0px;
+    padding: 20px 0px;
+    font-size: 50px;
+}
+
+section {
+    padding: 40px 0px;
+}
+
+.contenedor {
+    width: 1100px;
+    margin: auto;
+}
+
+.descripcion {
+    text-align: center;
+}
+
+.descripcion div {
+    float: left;
+    width: 50%;
+    text-align: left;
+}
+
+.caracteristicas {
+    text-align: center;
+    height: 300px;
+}
+
+.caracteristicas h2 {
+    margin: 0px;
+    padding: 20px 0px;
+    font-size: 40px;
+}
+
+.caracteristicas, footer {
+    background-color: #1e1a13;
+}
+.caracteristicas div {
+    display: inline-block;
+    width: 300px;
+    padding-top: 20px;
+}
+
+.descripcion {
+    height: 300px;
+}
+
+.descripcion img {
+    width: 30%;
+    padding-top: 30px;
+}
+
+.descripcion div {
+    width: 470px;
+    padding-left: 50px;
+}
+
+.imagenes {
+    text-align: center;
+    height: 300px;
+}
+
+.imagenes img {
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+}
+
+footer {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
